@@ -1,1 +1,1 @@
-worker: node bot.js
+worker: node NjkxNTY4MzM0MTcyMzIzOTMx.Xnh3fw.w8QS7uaQOJgR2Zl8QmzZ3_iZI4k
